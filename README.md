@@ -1,7 +1,9 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm John Thomas F. Caballero</h1>
 <h3 align="center">A passionate web frontend & mobile developer from Philippines</h3>
-<img align="right" alt="" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/08/coffee-gif-1.gif">
+<img align="center" alt="" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/08/coffee-gif-1.gif">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emailjohnthomascaballero" alt="emailjohnthomascaballero" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript & Flutter**
 
