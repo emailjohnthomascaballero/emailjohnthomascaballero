@@ -5,4 +5,4 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=979797&width=800&lines=Greetings%2C+I'm+John+Thomas+F.+Caballero%2C+a+full+stack+developer.)](https://github.com/emailjohnthomascaballero)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=979797&width=800&lines=Greetings%2C+I'm+John+Thomas+F.+Caballero%2C+a+web+developer.)](https://github.com/emailjohnthomascaballero)
