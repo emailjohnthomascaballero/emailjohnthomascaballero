@@ -46,6 +46,7 @@
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
               <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343"></a>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp&logoColor=%23FC7C1C"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23797AB1?logo=php&logoColor=%23040404"></a>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress&logoColor=%23444444"></a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
