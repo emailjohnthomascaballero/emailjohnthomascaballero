@@ -5,7 +5,7 @@
   <table>
     <thead>
       <tr>
-        <th align="left">⚙️ John</th>
+        <th align="left">⚙️</th>
         <th align="right">│⠀⠀🗕⠀⠀│⠀⠀🗗⠀⠀│⠀⠀🗙⠀⠀│</th>
       </tr>
     </thead>
@@ -39,10 +39,14 @@
               <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
               <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"></a>
               <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/EJS-%23B4CB64?logo=EJS&logoColor=%2304C681"></a>
               <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></a>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss&logoColor=%233BBCFC"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2304246C?logo=react&logoColor=%2304C681"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
               <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343"></a>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp&logoColor=%23FC7C1C"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress&logoColor=%23444444"></a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC"></a>
