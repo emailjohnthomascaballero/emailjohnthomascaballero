@@ -70,7 +70,7 @@
           <a href="#blank"><img src="https://img.shields.io/badge/OS-Android_13_(Pixel_Extended)-3DDC84?style=flat&logo=android&logoColor="></a>
         </td>
       </tr>
-      <tr>
+<!--       <tr>
         <td colspan="2">
           <details>
             <summary><b>⚡ Events/Experiences</b></summary>
@@ -104,22 +104,7 @@
             </table>
           </details>
         </td>
-      </tr>
+      </tr> -->
     </tbody>
   </table>
 </div>
-
-<!--
-**LeDragoX/LeDragoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
