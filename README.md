@@ -50,9 +50,9 @@
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23797AB1?logo=php&logoColor=%23040404"></a>
               <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress&logoColor=%23444444"></a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78"></a>
+              <a href="https://www.facebook.com/groups/472869017539410"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
+              <a href="https://www.facebook.com/CodeMNLOfficial"><img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC"></a>
+              <a href="https://www.facebook.com/fwdpeers"><img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78"></a>
         </td>
         <td colspan="1" align="center">
           <p><b>👀「 SOCIALS 」</b></p>
