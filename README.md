@@ -45,19 +45,17 @@
               <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
               <img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp&logoColor=%23FC7C1C">
             </a>
-          <br><p><b>📚「 STUDYING 」</b></p>
+          <br><p><b>🌍「 COMMUNITIES 」</b></p>
             <a href="#blank">
-              <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
-              <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+              <img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC">
+              <img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78">
             </a>
         </td>
         <td colspan="1" align="center">
           <p><b>👀「 SOCIALS 」</b></p>
           <a href="mailto:emailjohnthomascaballero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
+          <a href="https://www.linkedin.com/in/johnthomascaballero/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
           <br><p><b>👨🏻‍💻「 PC CONFIG 」</b></p>
           <a href="https://amzn.to/3k4f5nh"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
           <a href="https://amzn.to/3YVsGvM"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
