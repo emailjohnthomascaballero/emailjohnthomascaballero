@@ -32,8 +32,9 @@
             <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code&logoColor=blue"></a>
             <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop&logoColor=%2304CCFC"></a>
             <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma&logoColor=%23F75F3F"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut&logoColor=black"></a>
+            <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut&logoColor=black"></a>
             <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro&logoColor=%2304045C"></a>
+            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora&logoColor=%235C5C5C"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
               <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a>
               <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
