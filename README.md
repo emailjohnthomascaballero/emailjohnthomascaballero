@@ -63,9 +63,7 @@
           <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Laptop-DELL-%23047CBC?logo=dell&logoColor=%23047CBC"></a>
           <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Portable_Monitor-LIAGMK-%23047CBC?logoColor=%23047CBC"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
-          <a href="https://www.microsoft.com/software-download/windows10"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
-          <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux-mint"></a>
-          <a href="#blank"><img src="https://img.shields.io/badge/OS-Android_13_(Pixel_Extended)-3DDC84?style=flat&logo=android&logoColor="></a>
+          <a href="#"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
         </td>
       </tr>
 <!--       <tr>
