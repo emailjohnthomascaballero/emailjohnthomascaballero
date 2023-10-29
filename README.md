@@ -35,22 +35,18 @@
             <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut&logoColor=black"></a>
             <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro&logoColor=%2304045C"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
-            <a href="#blank">
-              <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
-              <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-              <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-              <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-              <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss&logoColor=%233BBCFC">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
-              <img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp&logoColor=%23FC7C1C">
-            </a>
+              <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a>
+              <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
+              <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"></a>
+              <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+              <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss&logoColor=%233BBCFC"></a>
+              <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp&logoColor=%23FC7C1C"></a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
-            <a href="#blank">
-              <img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC">
-              <img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC">
-              <img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78">
-            </a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC"></a>
+              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78"></a>
         </td>
         <td colspan="1" align="center">
           <p><b>👀「 SOCIALS 」</b></p>
