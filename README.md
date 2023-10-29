@@ -47,7 +47,7 @@
             </a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
             <a href="#blank">
-              <img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC">
+              <a href="" alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
               <img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC">
               <img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78">
             </a>
