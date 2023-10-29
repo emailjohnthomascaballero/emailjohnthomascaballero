@@ -56,6 +56,7 @@
           <p><b>👀「 SOCIALS 」</b></p>
           <a href="mailto:emailjohnthomascaballero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
           <a href="https://www.linkedin.com/in/johnthomascaballero/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+          <a href="https://www.facebook.com/emailjohnthomascaballero"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook%20-%237AB4F7?logo=facebook&logoColor=%230B64FA"></a>
           <br><p><b>👨🏻‍💻「 PC CONFIG 」</b></p>
           <a href="https://amzn.to/3k4f5nh"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
           <a href="https://amzn.to/3YVsGvM"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
