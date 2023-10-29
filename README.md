@@ -21,7 +21,7 @@
           <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
         </td>
         <td colspan="1" align="justify">
-          <b><i>🎓 Graduated in Southern Mindanao Institute of Technology</i></b><br>
+          <b><i>🎓 Graduated in Southern Mindanao Institute of Technology as an IT</i></b><br>
           <i>🔭 I’m currently working on my <b>Windows 10 Laptop</b></i><br>
           <i>💪 Never give up, the beginning is always the hardest.</i>
         </td>
