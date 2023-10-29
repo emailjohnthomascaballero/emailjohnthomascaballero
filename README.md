@@ -58,6 +58,7 @@
           <a href="mailto:emailjohnthomascaballero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
           <a href="https://www.linkedin.com/in/johnthomascaballero/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
           <a href="https://www.facebook.com/emailjohnthomascaballero"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook%20-%237AB4F7?logo=facebook&logoColor=%230B64FA"></a>
+          <a href="https://twitter.com/emailjohnthomas"><img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%231C9CF3?logo=twitter&logoColor=%235C5C5C"></a>
           <br><p><b>👨🏻‍💻「 MY GIG 」</b></p>
           <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mechanical_Keyboard-RK_Royal_Kludge%20-%23050505?logo=rk%20royal%20kludge&logoColor=%230B64FA"></a>
           <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Gaming_Mouse-DELUX-%23C4C964?logo=delux&logoColor=%230B64FA"></a>
