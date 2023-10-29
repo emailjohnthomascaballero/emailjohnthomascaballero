@@ -29,16 +29,18 @@
       <tr>
         <td colspan="1" align="center">
           <p><b>🧰「 TOOLS 」</b></p>
-            <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code&logoColor=blue"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop&logoColor=%2304CCFC"></a>
-            <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma&logoColor=%23F75F3F"></a>
-            <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut&logoColor=black"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro&logoColor=%2304045C"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora&logoColor=%235C5C5C"></a>
-            <a href="https://www.postman.com"><img alt="Static Badge" src="https://img.shields.io/badge/For_APIs-Postman-%23F86D36?logo=postman&logoColor=%23F2B493"></a>
-            <a href="https://obsproject.com"><img alt="Static Badge" src="https://img.shields.io/badge/Open_Broadcaster_Software-OBS-%23242024?logo=OBS%20Studio&logoColor=%23949494"></a>
-            <a href="https://discord.com"><img alt="Static Badge" src="https://img.shields.io/badge/Social_Platform-Discord-%235C64F4?logo=discord&logoColor=%23A4ACF5"></a>
-            <a href="https://slack.com"><img alt="Static Badge" src="https://img.shields.io/badge/Messaging_App-Slack-%23EAB433?logo=slack&logoColor=%232CB47C"></a>
+            <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code"></a>
+            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
+            <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma"></a>
+            <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut"></a>
+            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro"></a>
+            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora"></a>
+            <a href="https://www.postman.com"><img alt="Static Badge" src="https://img.shields.io/badge/For_APIs-Postman-%23F86D36?logo=postman"></a>
+            <a href="https://obsproject.com"><img alt="Static Badge" src="https://img.shields.io/badge/Open_Broadcaster_Software-OBS-%23242024?logo=OBS%20Studio"></a>
+            <a href="https://discord.com"><img alt="Static Badge" src="https://img.shields.io/badge/Social_Platform-Discord-%235C64F4?logo=discord"></a>
+            <a href="https://slack.com"><img alt="Static Badge" src="https://img.shields.io/badge/Messaging_App-Slack-%23EAB433?logo=slack"></a>
+            <a href="https://appinventor.mit.edu"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-MIT_App_Inventor-%23FB8C34?logo=MIT%20App%20Inventor"></a>
+            <a href="https://developer.android.com"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-Android_Studio-%2342D58A?logo=android%20studio"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
               <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a>
               <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
