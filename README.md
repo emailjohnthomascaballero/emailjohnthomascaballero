@@ -30,11 +30,11 @@
         <td colspan="1" align="center">
           <p><b>🧰「 TOOLS 」</b></p>
             <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
+            <a href="https://www.adobe.com/products/photoshop.html"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
             <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma"></a>
             <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora"></a>
+            <a href="https://www.adobe.com/products/premiere.html"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro"></a>
+            <a href="https://filmora.wondershare.net"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora"></a>
             <a href="https://www.postman.com"><img alt="Static Badge" src="https://img.shields.io/badge/For_APIs-Postman-%23F86D36?logo=postman"></a>
             <a href="https://obsproject.com"><img alt="Static Badge" src="https://img.shields.io/badge/Open_Broadcaster_Software-OBS-%23242024?logo=OBS%20Studio"></a>
             <a href="https://discord.com"><img alt="Static Badge" src="https://img.shields.io/badge/Social_Platform-Discord-%235C64F4?logo=discord"></a>
@@ -42,19 +42,20 @@
             <a href="https://appinventor.mit.edu"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-MIT_App_Inventor-%23FB8C34?logo=MIT%20App%20Inventor"></a>
             <a href="https://developer.android.com"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-Android_Studio-%2342D58A?logo=android%20studio"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
-              <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a>
-              <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
-              <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"></a>
-              <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/EJS-%23B4CB64?logo=EJS&logoColor=%2304C681"></a>
-              <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss&logoColor=%233BBCFC"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2304246C?logo=react&logoColor=%2304C681"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
-              <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp&logoColor=%23FC7C1C"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23797AB1?logo=php&logoColor=%23040404"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress&logoColor=%23444444"></a>
+              <a href="https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell"></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"></a>
+              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript"></a>
+              <a href="https://ejs.co"><img alt="Static Badge" src="https://img.shields.io/badge/EJS-%23B4CB64?logo=EJS"></a>
+              <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript"></a>
+              <a href="https://tailwindcss.com"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss"></a>
+              <a href="https://react.dev"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2304246C?logo=react"></a>
+              <a href="https://nextjs.org"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
+              <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"></a>
+              <a href="https://www.apachefriends.org"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp"></a>
+              <a href="https://www.php.net"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23797AB1?logo=php"></a>
+              <a href="https://wordpress.com/?aff=27964"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress"></a>
+              <a href="https://localwp.com"><img alt="Static Badge" src="https://img.shields.io/badge/Local_Wordpress-%2354BC7C?logo=wordpress"></a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
               <a href="https://www.facebook.com/groups/472869017539410"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
               <a href="https://www.facebook.com/CodeMNLOfficial"><img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC"></a>
