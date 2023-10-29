@@ -18,7 +18,7 @@
       </tr>
       <tr>
         <td align="center">
-          <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Some anime gif"></a>
+          <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
         </td>
         <td colspan="1" align="justify">
           <b><i>🎓 Graduated in Southern Mindanao Institute of Technology</i></b><br>
@@ -36,8 +36,9 @@
             <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro&logoColor=%2304045C"></a>
             <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora&logoColor=%235C5C5C"></a>
             <a href="https://www.postman.com"><img alt="Static Badge" src="https://img.shields.io/badge/For_APIs-Postman-%23F86D36?logo=postman&logoColor=%23F2B493"></a>
-            <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Open_Broadcaster_Software-OBS-%23242024?logo=OBS%20Studio&logoColor=%23949494"></a>
-            <a href="https://obsproject.com"><img alt="Static Badge" src="https://img.shields.io/badge/Social_Platform-Discord-%235C64F4?logo=discord&logoColor=%23A4ACF5"></a>
+            <a href="https://obsproject.com"><img alt="Static Badge" src="https://img.shields.io/badge/Open_Broadcaster_Software-OBS-%23242024?logo=OBS%20Studio&logoColor=%23949494"></a>
+            <a href="https://discord.com"><img alt="Static Badge" src="https://img.shields.io/badge/Social_Platform-Discord-%235C64F4?logo=discord&logoColor=%23A4ACF5"></a>
+            <a href="https://slack.com"><img alt="Static Badge" src="https://img.shields.io/badge/Messaging_App-Slack-%23EAB433?logo=slack&logoColor=%232CB47C"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
               <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a>
               <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
