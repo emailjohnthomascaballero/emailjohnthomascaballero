@@ -57,11 +57,11 @@
           <a href="mailto:emailjohnthomascaballero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
           <a href="https://www.linkedin.com/in/johnthomascaballero/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
           <a href="https://www.facebook.com/emailjohnthomascaballero"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook%20-%237AB4F7?logo=facebook&logoColor=%230B64FA"></a>
-          <br><p><b>👨🏻‍💻「 PC CONFIG 」</b></p>
-          <a href="https://amzn.to/3k4f5nh"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="https://amzn.to/3YVsGvM"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="https://amzn.to/3lI31J2"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
-          <a href="https://amzn.to/3YQGKXF"><img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+          <br><p><b>👨🏻‍💻「 MY GIG 」</b></p>
+          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mechanical_Keyboard-RK_Royal_Kludge%20-%23050505?logo=rk%20royal%20kludge&logoColor=%230B64FA"></a>
+          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Gaming_Mouse-DELUX-%23C4C964?logo=delux&logoColor=%230B64FA"></a>
+          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Laptop-DELL-%23047CBC?logo=dell&logoColor=%23047CBC"></a>
+          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Portable_Monitor-LIAGMK-%23047CBC?logoColor=%23047CBC"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows10"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
           <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux-mint"></a>
