@@ -32,6 +32,7 @@
             <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code"></a>
             <a href="https://www.adobe.com/products/photoshop.html"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
             <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma"></a>
+            <a href="https://vercel.com"><img alt="Static Badge" src="https://img.shields.io/badge/Hosting-Vercel-%23070707?logo=vercel"></a>
             <a href="https://www.notion.so"><img alt="Static Badge" src="https://img.shields.io/badge/Planning-Notion-%23101010?logo=notion"></a>
             <a href="https://elements.envato.com"><img alt="Static Badge" src="https://img.shields.io/badge/Templates-Envato-%238DAF5E?logo=envato"></a>
             <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut"></a>
@@ -52,6 +53,7 @@
               <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript"></a>
               <a href="https://tailwindcss.com"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss"></a>
               <a href="https://react.dev"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2304246C?logo=react"></a>
+              <a href="https://react-leaflet.js.org"><img alt="Static Badge" src="https://img.shields.io/badge/React_Leaflet-%232D473F%232D473F?logo=leaflet"></a>
               <a href="https://nextjs.org"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
               <a href="https://nodejs.org/en"><img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23B0DF77?logo=node.js"></a>
               <a href="https://swiperjs.com"><img alt="Static Badge" src="https://img.shields.io/badge/Swiper.js-%230481F8?logo=swiper"></a>
