@@ -14,6 +14,8 @@
         <td colspan="2" align="center">
           <h2 align="center"><i>It's me...John! 👋 Hello, World!</i></h2>
           <img src="https://komarev.com/ghpvc/?username=emailjohnthomascaballero&label=Profile_Views&color=blueviolet&style=flat" alt="emailjohnthomascaballero" />
+          <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=flat-square&logo=youtube&logoColor=%23F90808&label=Gamer%20Forever%20YouTube%20Views"></a>
+          <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=flat-square&logo=youtube&logoColor=%23F90808&label=Geek%20Forever%20YouTube%20Views"></a>
         </td>
       </tr>
       <tr>
