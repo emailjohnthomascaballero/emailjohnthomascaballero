@@ -79,7 +79,7 @@
 <!--       <tr>
         <td colspan="2">
           <details>
-            <summary><b>⚡ Events/Experiences</b></summary>
+            <summary><b>⚡ Experiences</b></summary>
             <table align="center">
               <thead align="center">
                 <tr>
@@ -93,17 +93,17 @@
               <tbody align="center">
                 <tr>
                   <td>
-                    <img src="https://github.com/TreinaDev.png" width="25px" style="vertical-align: middle;" />
+                    <img src="" width="25px" style="vertical-align: middle;" />
                   </td>
-                  <td><a href="https://treinadev.com.br/" target="_blank">TreinaDev 7</a></td>
-                  <td>Campus Code</td>
-                  <td>2021</td>
+                  <td><a href="#" target="_blank">name</a></td>
+                  <td>company</td>
+                  <td>year</td>
                   <td>
-                    Git, Signing Keys,<br/>
-                    Ruby v3, Rails v6,<br/>
-                    TDD, Following Conventions,<br/>
-                    Linting, Pair Programming,<br/>
-                    Daily Meeting
+                    skill, skill,<br/>
+                    skill, Rskill,<br/>
+                    skill, skill,<br/>
+                    skill, Pskill,<br/>
+                    skill
                   </td>
                 </tr>
               </tbody>
