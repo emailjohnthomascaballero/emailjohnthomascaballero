@@ -91,10 +91,10 @@
           <a href="#"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
         </td>
       </tr>
-<!--       <tr>
+      <tr>
         <td colspan="2">
           <details>
-            <summary><b>⚡ Experiences</b></summary>
+            <summary><b>📶 Current Status</b></summary>
             <table align="center">
               <thead align="center">
                 <tr>
@@ -108,24 +108,25 @@
               <tbody align="center">
                 <tr>
                   <td>
-                    <img src="" width="25px" style="vertical-align: middle;" />
+<!--                     <img src="" width="25px" style="vertical-align: middle;" /> --> confidencial
                   </td>
-                  <td><a href="#" target="_blank">name</a></td>
-                  <td>company</td>
-                  <td>year</td>
                   <td>
-                    skill, skill,<br/>
-                    skill, Rskill,<br/>
-                    skill, skill,<br/>
-                    skill, Pskill,<br/>
-                    skill
+<!--                     a href="#" target="_blank">name</a> --> confidencial
+                  </td>
+                  <td>confidencial</td>
+                  <td>2023</td>
+                  <td>
+                    Bootstrap, SASS,<br/>
+                    React, TypeScript,<br/>
+                    Github Organization, Github Collaboration,<br/>
+                    Miro & Loom<br/>
                   </td>
                 </tr>
               </tbody>
             </table>
           </details>
         </td>
-      </tr> -->
+      </tr>
     </tbody>
   </table>
 </div>
