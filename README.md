@@ -31,6 +31,7 @@
           <p><b>🧰「 TOOLS 」</b></p>
             <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code"></a>
             <a href="https://www.adobe.com/products/photoshop.html"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
+            <a href="https://www.canva.com"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Canva-%231E9ED5?logo=CANVA"></a>
             <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma"></a>
             <a href="https://vercel.com"><img alt="Static Badge" src="https://img.shields.io/badge/Hosting-Vercel-%23070707?logo=vercel"></a>
             <a href="https://www.notion.so"><img alt="Static Badge" src="https://img.shields.io/badge/Planning-Notion-%23101010?logo=notion"></a>
