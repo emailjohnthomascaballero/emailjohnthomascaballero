@@ -32,6 +32,8 @@
             <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code"></a>
             <a href="https://www.adobe.com/products/photoshop.html"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
             <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma"></a>
+            <a href="https://www.notion.so"><img alt="Static Badge" src="https://img.shields.io/badge/Planning-Notion-%23101010?logo=notion"></a>
+            <a href="https://elements.envato.com"><img alt="Static Badge" src="https://img.shields.io/badge/Templates-Envato-%238DAF5E?logo=envato"></a>
             <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut"></a>
             <a href="https://www.adobe.com/products/premiere.html"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro"></a>
             <a href="https://filmora.wondershare.net"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora"></a>
