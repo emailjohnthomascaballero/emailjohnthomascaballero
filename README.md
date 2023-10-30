@@ -107,7 +107,7 @@
               <tbody align="center">
                 <tr>
                   <td>
-<!--              <img src="" width="25px" style="vertical-align: middle;" /> --> confidencial
+<!--              <img src="" width="25px" style="vertical-align: middle;" /> --> Confidencial
                   </td>
                   <td>
 <!--              <a href="#" target="_blank">name</a> --> Client based
