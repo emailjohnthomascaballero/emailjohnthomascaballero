@@ -98,23 +98,21 @@
             <table align="center">
               <thead align="center">
                 <tr>
-                  <th>Icon</th>
-                  <th>Name</th>
+                  <th>Logo</th>
                   <th>Company</th>
-                  <th>Date</th>
+                  <th>Experience</th>
                   <th>Learned</th>
                 </tr>
               </thead>
               <tbody align="center">
                 <tr>
                   <td>
-<!--                     <img src="" width="25px" style="vertical-align: middle;" /> --> confidencial
+<!--              <img src="" width="25px" style="vertical-align: middle;" /> --> confidencial
                   </td>
                   <td>
-<!--                     a href="#" target="_blank">name</a> --> confidencial
+<!--              <a href="#" target="_blank">name</a> --> Client based
                   </td>
-                  <td>confidencial</td>
-                  <td>2023</td>
+                  <td>1 Month</td>
                   <td>
                     Bootstrap, SASS,<br/>
                     React, TypeScript,<br/>
