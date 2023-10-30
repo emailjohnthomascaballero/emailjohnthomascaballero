@@ -26,7 +26,7 @@
         </td>
         <td colspan="1" align="justify">
           <b><i>🎓 Graduated in Southern Mindanao Institute of Technology as an IT</i></b><br>
-          <i>🔭 I’m currently working on my <b>Windows 10 Laptop</b></i><br>
+          <i>🔭 I’m currently working as a content creator, live streamer, gamer, programmer & freelancer.</i><br>
           <i>💪 Never give up, the beginning is always the hardest.</i>
         </td>
       </tr>
