@@ -47,6 +47,8 @@
             <a href="https://slack.com"><img alt="Static Badge" src="https://img.shields.io/badge/Messaging_App-Slack-%23EAB433?logo=slack"></a>
             <a href="https://appinventor.mit.edu"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-MIT_App_Inventor-%23FB8C34?logo=MIT%20App%20Inventor"></a>
             <a href="https://developer.android.com"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-Android_Studio-%2342D58A?logo=android%20studio"></a>
+            <a href="https://www.virtualbox.org"><img alt="Static Badge" src="https://img.shields.io/badge/Virtualization-VirtualBox-%23223E6A?logo=VirtualBox"></a>
+            <a href="https://www.vmware.com"><img alt="Static Badge" src="https://img.shields.io/badge/Virtualization-VMware-%23F38B04?logo=vmware"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
               <a href="https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell"></a>
               <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"></a>
