@@ -54,11 +54,11 @@
               <a href="https://react.dev"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2304246C?logo=react"></a>
               <a href="https://nextjs.org"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
               <a href="https://nodejs.org/en"><img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23B0DF77?logo=node.js"></a>
-              <a href="https://swiperjs.com"><img alt="Static Badge" src="https://img.shields.io/badge/Swiper-%230481F8?logo=swiper"></a>
+              <a href="https://swiperjs.com"><img alt="Static Badge" src="https://img.shields.io/badge/Swiper.js-%230481F8?logo=swiper"></a>
               <a href="https://alpinejs.dev"><img alt="Static Badge" src="https://img.shields.io/badge/Alpine.js-%23374655?logo=alpine.js"></a>
-              <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-7686B8?style=flat&logo=python"></a>
+              <a href="https://www.python.org"><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23D8D874?logo=python"></a>
               <a href="https://www.apachefriends.org"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp"></a>
-              <a href="https://www.php.net"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23797AB1?logo=php"></a>
+              <a href="https://www.php.net"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23E2E4E7?logo=php"></a>
               <a href="https://wordpress.com/?aff=27964"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress"></a>
               <a href="https://localwp.com"><img alt="Static Badge" src="https://img.shields.io/badge/Local_Wordpress-%2354BC7C?logo=wordpress"></a>
           <br><p><b>🌍「 COMMUNITIES 」</b></p>
