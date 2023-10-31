@@ -50,6 +50,8 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 <img align="left" alt="LinkIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />        
 <br />
+<br />
+<br />
 
 #
 
