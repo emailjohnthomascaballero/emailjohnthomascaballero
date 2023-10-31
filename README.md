@@ -52,6 +52,13 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 <details>
             <summary><b>📶 Current Status/Experience</b></summary>
             <table align="center">
+               <thead align="center">
+               <tr>
+                <th colspan="5">
+                   <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
+                </th>
+              </tr>
+              </thead>
               <thead align="center">
                 <tr>
                   <th>Logo</th>
