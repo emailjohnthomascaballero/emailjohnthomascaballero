@@ -1,4 +1,6 @@
+<a href="https://github.com/emailjohnthomascaballero">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+John+Thomas+F.+Caballero!;+a+programmer...;+a+gamer...;+a+content+creator...;+a+streamer.;" />
+</a>
 
 **`Creative Frontend Web Developer | Passionate About Collaborative Team Projects`**
 
@@ -12,7 +14,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 ---
 
 ### 🧰 Languages and Tools
-
+<a href="https://github.com/emailjohnthomascaballero">
 <!-- Languages -->
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -48,7 +50,8 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 <img align="left" alt="LinkIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />        
+<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />   
+</a>
 <br />
 <br />
 <br />
@@ -74,7 +77,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
                <thead align="center">
                <tr>
                 <th colspan="5">
-                   <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
+                   <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
                 </th>
               </tr>
               </thead>
