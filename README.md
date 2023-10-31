@@ -1,130 +1,66 @@
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+John+Thomas+F.+Caballero!;+a+programmer...;+a+gamer...;+a+content+creator...;+a+streamer.;" />
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=979797&width=800&lines=Greetings%2C+I'm+John+Thomas+F.+Caballero%2C+a+web+developer.)](https://github.com/emailjohnthomascaballero)-->
+**`Creative Frontend Web Developer | Passionate About Collaborative Team Projects`**
 
-<div>
-  <table>
-    <thead>
-      <tr>
-        <th align="left">⚙️</th>
-        <th align="right">│⠀⠀🗕⠀⠀│⠀⠀🗗⠀⠀│⠀⠀🗙⠀⠀│</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td colspan="2" align="center">
-          <h2 align="center"><i>It's me...John! 👋 Hello, World!</i></h2>
-          <img src="https://komarev.com/ghpvc/?username=emailjohnthomascaballero&label=Profile_Views&color=blueviolet&style=flat" alt="emailjohnthomascaballero" />
-          <h2 align="center">
-          <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=flat-square&logo=youtube&logoColor=%23F90808&label=Gamer%20Forever%20YouTube%20Views"></a>
-          <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=flat-square&logo=youtube&logoColor=%23F90808&label=Geek%20Forever%20YouTube%20Views"></a>
-          </h2>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
-        </td>
-        <td colspan="1" align="justify">
-          <b><i>🎓 Graduated in Southern Mindanao Institute of Technology as an IT</i></b><br>
-          <i>🔭 I’m currently working as a content creator, live streamer, gamer, programmer & freelancer.</i><br>
-          <i>💪 Never give up, the beginning is always the hardest.</i>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="1" align="center">
-          <p><b>🧰「 TOOLS 」</b></p>
-            <a href="https://code.visualstudio.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Code_Editor-VS_Code-%23507578?logo=visual%20studio%20code"></a>
-            <a href="https://www.adobe.com/products/photoshop.html"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Photoshop-%2304CCFC?logo=adobe%20photoshop"></a>
-            <a href="https://www.canva.com"><img alt="Static Badge" src="https://img.shields.io/badge/Photo_Editor-Canva-%231E9ED5?logo=CANVA"></a>
-            <a href="https://www.figma.com"><img alt="Static Badge" src="https://img.shields.io/badge/Web_Design-Figma-%23A76AF9?logo=figma"></a>
-            <a href="https://vercel.com"><img alt="Static Badge" src="https://img.shields.io/badge/Hosting-Vercel-%23070707?logo=vercel"></a>
-            <a href="https://www.notion.so"><img alt="Static Badge" src="https://img.shields.io/badge/Planning-Notion-%23101010?logo=notion"></a>
-            <a href="https://elements.envato.com"><img alt="Static Badge" src="https://img.shields.io/badge/Templates-Envato-%238DAF5E?logo=envato"></a>
-            <a href="https://www.capcut.com"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Capcut-%23000000?logo=CapCut"></a>
-            <a href="https://www.adobe.com/products/premiere.html"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Adobe_Premiere_Pro-%239B9BFB?logo=Adobe%20Premiere%20Pro"></a>
-            <a href="https://filmora.wondershare.net"><img alt="Static Badge" src="https://img.shields.io/badge/Video_Editor-Filmora-%2374CEC7?logo=filmora"></a>
-            <a href="https://www.postman.com"><img alt="Static Badge" src="https://img.shields.io/badge/For_APIs-Postman-%23F86D36?logo=postman"></a>
-            <a href="https://obsproject.com"><img alt="Static Badge" src="https://img.shields.io/badge/Open_Broadcaster_Software-OBS-%23242024?logo=OBS%20Studio"></a>
-            <a href="https://discord.com"><img alt="Static Badge" src="https://img.shields.io/badge/Social_Platform-Discord-%235C64F4?logo=discord"></a>
-            <a href="https://slack.com"><img alt="Static Badge" src="https://img.shields.io/badge/Messaging_App-Slack-%23EAB433?logo=slack"></a>
-            <a href="https://appinventor.mit.edu"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-MIT_App_Inventor-%23FB8C34?logo=MIT%20App%20Inventor"></a>
-            <a href="https://developer.android.com"><img alt="Static Badge" src="https://img.shields.io/badge/Mobile_Development-Android_Studio-%2342D58A?logo=android%20studio"></a>
-            <a href="https://www.virtualbox.org"><img alt="Static Badge" src="https://img.shields.io/badge/Virtualization-VirtualBox-%23223E6A?logo=VirtualBox"></a>
-            <a href="https://www.vmware.com"><img alt="Static Badge" src="https://img.shields.io/badge/Virtualization-VMware-%23F38B04?logo=vmware"></a>
-          <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
-              <a href="https://apps.microsoft.com/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=US"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell"></a>
-              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5"></a>
-              <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"></a>
-              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript"></a>
-              <a href="https://ejs.co"><img alt="Static Badge" src="https://img.shields.io/badge/EJS-%23B4CB64?logo=EJS"></a>
-              <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript"></a>
-              <a href="https://tailwindcss.com"><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%2386D3FC?logo=tailwindcss"></a>
-              <a href="https://react.dev"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2304246C?logo=react"></a>
-              <a href="https://react-leaflet.js.org"><img alt="Static Badge" src="https://img.shields.io/badge/React_Leaflet-%232D473F%232D473F?logo=leaflet"></a>
-              <a href="https://nextjs.org"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=next.js"></a>
-              <a href="https://nodejs.org/en"><img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23B0DF77?logo=node.js"></a>
-              <a href="https://swiperjs.com"><img alt="Static Badge" src="https://img.shields.io/badge/Swiper.js-%230481F8?logo=swiper"></a>
-              <a href="https://alpinejs.dev"><img alt="Static Badge" src="https://img.shields.io/badge/Alpine.js-%23374655?logo=alpine.js"></a>
-              <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/GSAP-%236DA30A?logo=gsap"></a>
-              <a href="https://www.python.org"><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23D8D874?logo=python"></a>
-              <a href="https://www.apachefriends.org"><img alt="Static Badge" src="https://img.shields.io/badge/XAMPP-%23FCA86F?logo=xampp"></a>
-              <a href="https://www.php.net"><img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23E2E4E7?logo=php"></a>
-              <a href="https://wordpress.com/?aff=27964"><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2324749C?logo=wordpress"></a>
-              <a href="https://localwp.com"><img alt="Static Badge" src="https://img.shields.io/badge/Local_Wordpress-%2354BC7C?logo=wordpress"></a>
-          <br><p><b>🌍「 COMMUNITIES 」</b></p>
-              <a href="https://www.facebook.com/groups/472869017539410"><img alt="Static Badge" src="https://img.shields.io/badge/STUDEVPHL-%23FC0A90?logo=studev&logoColor=%233BBCFC"></a>
-              <a href="https://www.facebook.com/CodeMNLOfficial"><img alt="Static Badge" src="https://img.shields.io/badge/CODEMNL-%230434A4?logo=codemnl&logoColor=%233BBCFC"></a>
-              <a href="https://www.facebook.com/fwdpeers"><img alt="Static Badge" src="https://img.shields.io/badge/Filipino_Web_Development_Peers%20-%23DC2D78"></a>
-        </td>
-        <td colspan="1" align="center">
-          <p><b>👀「 SOCIALS 」</b></p>
-          <a href="mailto:emailjohnthomascaballero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-          <a href="https://www.linkedin.com/in/johnthomascaballero/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-          <a href="https://www.facebook.com/emailjohnthomascaballero"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook%20-%237AB4F7?logo=facebook&logoColor=%230B64FA"></a>
-          <a href="https://twitter.com/emailjohnthomas"><img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%231C9CF3?logo=twitter&logoColor=%235C5C5C"></a>
-          <br><p><b>👨🏻‍💻「 MY GIG 」</b></p>
-          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Mechanical_Keyboard-RK_Royal_Kludge%20-%23050505?logo=rk%20royal%20kludge&logoColor=%230B64FA"></a>
-          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Gaming_Mouse-DELUX-%23C4C964?logo=delux&logoColor=%230B64FA"></a>
-          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Laptop-DELL-%23047CBC?logo=dell&logoColor=%23047CBC"></a>
-          <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Portable_Monitor-LIAGMK-%23047CBC?logoColor=%23047CBC"></a>
-          <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
-          <a href="#"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <details>
-            <summary><b>📶 Current Status</b></summary>
-            <table align="center">
-              <thead align="center">
-                <tr>
-                  <th>Logo</th>
-                  <th>Company</th>
-                  <th>Experience</th>
-                  <th>Learned</th>
-                </tr>
-              </thead>
-              <tbody align="center">
-                <tr>
-                  <td>
-<!--              <img src="" width="25px" style="vertical-align: middle;" /> --> Confidencial
-                  </td>
-                  <td>
-<!--              <a href="#" target="_blank">name</a> --> Client based
-                  </td>
-                  <td>1 Month</td>
-                  <td>
-                    Bootstrap, SASS,<br/>
-                    React, TypeScript,<br/>
-                    Github Organization, Github Collaboration,<br/>
-                    Miro & Loom<br/>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </details>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+Allow me to introduce myself as a developer, gamer, and streamer with two distinct channels: "Gamer Forever" and "Geek Forever." On my "Gamer Forever" channel, I enjoy streaming and playing games purely for fun and as a personal hobby. My second channel, "Geek Forever," serves as a platform for sharing everything related to technology, such as programming tutorials, software installations, and various other tech-related content.
+
+   <p align="left">
+      <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
+       <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=for-the-badge&logo=youtube&label=Geek%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
+   </p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />        
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+<!--
+### 📺 All Project in my Repository
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!--
+[![Dev Startup Day 4 - A Day in the Dev Life](https://ytcards.demolab.com/?id=sVDFpt0_B_U&title=Dev+Startup+Day+4+-+A+Day+in+the+Dev+Life&lang=en&timestamp=1698347100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3954 "Dev Startup Day 4 - A Day in the Dev Life")](https://www.youtube.com/watch?v=sVDFpt0_B_U)
+[![If I Was a Computer Science Student Again, I'd Do This](https://ytcards.demolab.com/?id=a2BXOpzitAM&title=If+I+Was+a+Computer+Science+Student+Again%2C+I%27d+Do+This&lang=en&timestamp=1698070500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581 "If I Was a Computer Science Student Again, I'd Do This")](https://www.youtube.com/watch?v=a2BXOpzitAM)
+[![Dev Startup Day 3 - Design the Database Schema & Frontend Dev](https://ytcards.demolab.com/?id=u_cyoLe2nhE&title=Dev+Startup+Day+3+-+Design+the+Database+Schema+%26+Frontend+Dev&lang=en&timestamp=1697896842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2651 "Dev Startup Day 3 - Design the Database Schema & Frontend Dev")](https://www.youtube.com/watch?v=u_cyoLe2nhE)
+[![Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate](https://ytcards.demolab.com/?id=T8tZuv3JIJY&title=Dev+Startup+Day+2+-+Start+of+the+Dev+Platform+Project+w%2F+Boilerplate&lang=en&timestamp=1697738410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4276 "Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate")](https://www.youtube.com/watch?v=T8tZuv3JIJY)
+[![Dev Startup Day 1 - I'm Coding a Platform for Developers](https://ytcards.demolab.com/?id=AfmaCoX2fTA&title=Dev+Startup+Day+1+-+I%27m+Coding+a+Platform+for+Developers&lang=en&timestamp=1697566500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2881 "Dev Startup Day 1 - I'm Coding a Platform for Developers")](https://www.youtube.com/watch?v=AfmaCoX2fTA)
+[![The Entire Unity Situation Explained (and what it means for developers)](https://ytcards.demolab.com/?id=sb_ZdAKO_xA&title=The+Entire+Unity+Situation+Explained+%28and+what+it+means+for+developers%29&lang=en&timestamp=1695906300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1987 "The Entire Unity Situation Explained (and what it means for developers)")](https://www.youtube.com/watch?v=sb_ZdAKO_xA)
+<!-- END YOUTUBE-CARDS -->
+<!--
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!--
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
