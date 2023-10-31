@@ -37,7 +37,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 #
 
 
-### 📺 All Project in my Repository
+### 📺 Latest Geek Forever YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![👨‍💻Next.js | GSAP CDN - Scroll Trigger](https://ytcards.demolab.com/?id=5-n95Ualogw&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBNext.js+%7C+GSAP+CDN+-+Scroll+Trigger&lang=en&timestamp=1698392428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "👨‍💻Next.js | GSAP CDN - Scroll Trigger")](https://www.youtube.com/watch?v=5-n95Ualogw)
@@ -48,18 +48,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 [![⚙️Retrieve a list of posts from your WordPress site](https://ytcards.demolab.com/?id=2Hn8X9tDqb0&title=%E2%9A%99%EF%B8%8FRetrieve+a+list+of+posts+from+your+WordPress+site&lang=en&timestamp=1696171015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️Retrieve a list of posts from your WordPress site")](https://www.youtube.com/watch?v=2Hn8X9tDqb0)
 <!-- END YOUTUBE-CARDS -->
 
-<!-- BEGIN YOUTUBE-CARDSS -->
 <!--
-[![Dev Startup Day 4 - A Day in the Dev Life](https://ytcards.demolab.com/?id=sVDFpt0_B_U&title=Dev+Startup+Day+4+-+A+Day+in+the+Dev+Life&lang=en&timestamp=1698347100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3954 "Dev Startup Day 4 - A Day in the Dev Life")](https://www.youtube.com/watch?v=sVDFpt0_B_U)
-[![If I Was a Computer Science Student Again, I'd Do This](https://ytcards.demolab.com/?id=a2BXOpzitAM&title=If+I+Was+a+Computer+Science+Student+Again%2C+I%27d+Do+This&lang=en&timestamp=1698070500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581 "If I Was a Computer Science Student Again, I'd Do This")](https://www.youtube.com/watch?v=a2BXOpzitAM)
-[![Dev Startup Day 3 - Design the Database Schema & Frontend Dev](https://ytcards.demolab.com/?id=u_cyoLe2nhE&title=Dev+Startup+Day+3+-+Design+the+Database+Schema+%26+Frontend+Dev&lang=en&timestamp=1697896842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2651 "Dev Startup Day 3 - Design the Database Schema & Frontend Dev")](https://www.youtube.com/watch?v=u_cyoLe2nhE)
-[![Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate](https://ytcards.demolab.com/?id=T8tZuv3JIJY&title=Dev+Startup+Day+2+-+Start+of+the+Dev+Platform+Project+w%2F+Boilerplate&lang=en&timestamp=1697738410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4276 "Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate")](https://www.youtube.com/watch?v=T8tZuv3JIJY)
-[![Dev Startup Day 1 - I'm Coding a Platform for Developers](https://ytcards.demolab.com/?id=AfmaCoX2fTA&title=Dev+Startup+Day+1+-+I%27m+Coding+a+Platform+for+Developers&lang=en&timestamp=1697566500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2881 "Dev Startup Day 1 - I'm Coding a Platform for Developers")](https://www.youtube.com/watch?v=AfmaCoX2fTA)
-[![The Entire Unity Situation Explained (and what it means for developers)](https://ytcards.demolab.com/?id=sb_ZdAKO_xA&title=The+Entire+Unity+Situation+Explained+%28and+what+it+means+for+developers%29&lang=en&timestamp=1695906300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1987 "The Entire Unity Situation Explained (and what it means for developers)")](https://www.youtube.com/watch?v=sb_ZdAKO_xA)
-<!-- END YOUTUBE-CARDSS -->
-<!--
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
 #
 
 ### 📊 Stats
