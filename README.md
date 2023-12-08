@@ -62,12 +62,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
 ### 📺 Latest Geek Forever YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🖥️uTorrent Installation in Windows 11](https://ytcards.demolab.com/?id=-SKNwlBtDWg&title=%F0%9F%96%A5%EF%B8%8FuTorrent+Installation+in+Windows+11&lang=en&timestamp=1701681287&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️uTorrent Installation in Windows 11")](https://www.youtube.com/watch?v=-SKNwlBtDWg)
-[![🖥️Install Custom Cursor in Windows 11](https://ytcards.demolab.com/?id=1-rXPRVT0i4&title=%F0%9F%96%A5%EF%B8%8FInstall+Custom+Cursor+in+Windows+11&lang=en&timestamp=1701312983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Install Custom Cursor in Windows 11")](https://www.youtube.com/watch?v=1-rXPRVT0i4)
-[![⚙️GIT, GitHub & VS Code (Full Quick Setup in Windows 11)](https://ytcards.demolab.com/?id=WwMpEq44El8&title=%E2%9A%99%EF%B8%8FGIT%2C+GitHub+%26+VS+Code+%28Full+Quick+Setup+in+Windows+11%29&lang=en&timestamp=1701255798&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️GIT, GitHub & VS Code (Full Quick Setup in Windows 11)")](https://www.youtube.com/watch?v=WwMpEq44El8)
-[![⚙️Compact Folders Issue (VS Code Setup)](https://ytcards.demolab.com/?id=gg3JP-IGcJQ&title=%E2%9A%99%EF%B8%8FCompact+Folders+Issue+%28VS+Code+Setup%29&lang=en&timestamp=1700486102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️Compact Folders Issue (VS Code Setup)")](https://www.youtube.com/watch?v=gg3JP-IGcJQ)
-[![⌨️Type fast as a programmer (SpeedTyper.dev - TypeScript in 30 days)](https://ytcards.demolab.com/?id=Y8vG67Z7G9k&title=%E2%8C%A8%EF%B8%8FType+fast+as+a+programmer+%28SpeedTyper.dev+-+TypeScript+in+30+days%29&lang=en&timestamp=1699610490&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Type fast as a programmer (SpeedTyper.dev - TypeScript in 30 days)")](https://www.youtube.com/watch?v=Y8vG67Z7G9k)
-[![⚙️Markdown Preview Enhanced (VS Code Setup)](https://ytcards.demolab.com/?id=9F10Y0i0x94&title=%E2%9A%99%EF%B8%8FMarkdown+Preview+Enhanced+%28VS+Code+Setup%29&lang=en&timestamp=1699429560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️Markdown Preview Enhanced (VS Code Setup)")](https://www.youtube.com/watch?v=9F10Y0i0x94)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
