@@ -94,7 +94,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
               <tbody align="center">
                 <tr>
                   <td>
-<!--              <img src="" width="25px" style="vertical-align: middle;" /> --> Confidencial
+                     <img src="https://avatars.githubusercontent.com/u/132177038?s=400&u=50b7da79bfc95b09c16cae95a8660ca5202e9c3c&v=4" width="25px" style="vertical-align: middle;" />
                   </td>
                   <td>
 <!--              <a href="#" target="_blank">name</a> --> Client based
