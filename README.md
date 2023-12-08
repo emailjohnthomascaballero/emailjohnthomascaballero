@@ -99,7 +99,7 @@ Allow me to introduce myself as a developer, gamer, and streamer with two distin
                   <td>
 <!--              <a href="#" target="_blank">name</a> --> MMO WIKI (Client based)
                   </td>
-                  <td>1 Month</td>
+                  <td>2 Months</td>
                   <td>
                     Bootstrap, SASS,<br/>
                     React, TypeScript,<br/>
