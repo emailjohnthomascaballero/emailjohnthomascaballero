@@ -1,5 +1,5 @@
 <a href="https://github.com/emailjohnthomascaballero">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+John+Thomas+F.+Caballero!;+a+programmer...;+a+gamer...;+a+content+creator...;+a+streamer.;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+John+Thomas+F.+Caballero!;+a+programmer...;+a+gamer...;+a+content+creator...;+a+streamer.;...;+a+freelancer.;" />
 </a>
 
 **`Creative Frontend Web Developer | Passionate About Collaborative Team Projects`**
