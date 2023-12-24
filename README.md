@@ -4,7 +4,7 @@
 
 **`Creative Frontend Web Developer | Passionate About Collaborative Team Projects`**
 
-Greetings, I am a developer, gamer, and streamer managing two distinct channels: "Gamer Forever" and "Geek Forever." On "Gamer Forever," I indulge in game streaming for pure enjoyment and personal hobby. Meanwhile, "Geek Forever" is dedicated to all things technology, featuring content such as programming tutorials, software installations, and other tech-related insights.
+Greetings, I'm a developer, gamer, and streamer overseeing two channels: "Gamer Forever" for casual gaming and "Geek Forever" for tech-related content. On "Geek Forever," you'll find programming tutorials, software installations, unboxing videos, and various tech-related content. Explore my pinned repositories for notable projects and my contribution graph for a snapshot of my coding activity. Thanks for visiting!
 
    <p align="left">
       <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
