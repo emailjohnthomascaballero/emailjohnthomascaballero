@@ -99,7 +99,7 @@ Greetings, I'm a developer, gamer, and streamer overseeing two channels: "Gamer 
                   <td>
 <!--              <a href="#" target="_blank">name</a> --> MMO WIKI (Client based)
                   </td>
-                  <td>2 Months</td>
+                  <td>3 Months</td>
                   <td>
                     Bootstrap, SASS,<br/>
                     React, TypeScript,<br/>
