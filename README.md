@@ -57,7 +57,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 <br />
 <br />
 
----
+#
 
 ### 📺 Latest Geek Forever YouTube Videos
 
