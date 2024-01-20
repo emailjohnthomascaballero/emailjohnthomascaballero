@@ -144,7 +144,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
      <tbody align="center">
        <tr>
          <td>
-            <img src="https://avatars.githubusercontent.com/u/132177038?s=400&u=50b7da79bfc95b09c16cae95a8660ca5202e9c3c&v=4" width="25px" style="vertical-align: middle;" />
+            <a href="https://github.com/MMOWiki"> <img src="https://avatars.githubusercontent.com/u/132177038?s=400&u=50b7da79bfc95b09c16cae95a8660ca5202e9c3c&v=4" width="25px" style="vertical-align: middle;" /> </a>
          </td>
          <td>
             MMO WIKI (Client based)
