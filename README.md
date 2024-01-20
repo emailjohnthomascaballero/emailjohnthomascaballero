@@ -160,6 +160,24 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
            Currently Working
          </td>
        </tr>
+        <tr>
+         <td>
+            <img src="https://avatars.githubusercontent.com/u/125577727?s=200&v=4" width="25px" style="vertical-align: middle;" />
+         </td>
+         <td>
+            bossROD`s Solutions (Startup Company)
+         </td>
+         <td>1 Day</td>
+         <td>
+           NextJS, Vitest,<br/>
+           React, TypeScript,<br/>
+           Github Organization, Github Collaboration,<br/>
+           Figma<br/>
+         </td>
+          <td>
+           Currently Working
+         </td>
+       </tr>
      </tbody>
    </table>
 </details>
