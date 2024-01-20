@@ -147,7 +147,8 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             <a href="https://github.com/MMOWiki"> <img src="https://avatars.githubusercontent.com/u/132177038?s=400&u=50b7da79bfc95b09c16cae95a8660ca5202e9c3c&v=4" width="25px" style="vertical-align: middle;" /> </a>
          </td>
          <td>
-            MMO WIKI (Client based)
+            MMO WIKI <br> 
+            (Client based)
          </td>
          <td>4 Months</td>
          <td>
@@ -165,7 +166,8 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             <a href="https://github.com/bossrodtv"> <img src="https://avatars.githubusercontent.com/u/125577727?s=200&v=4" width="25px" style="vertical-align: middle;" /> </a>
          </td>
          <td>
-            bossROD`s Solutions (Startup Company)
+            bossROD`s Solutions <br> 
+            (Startup Company)
          </td>
          <td>1 Day</td>
          <td>
