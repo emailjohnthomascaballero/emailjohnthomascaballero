@@ -73,43 +73,43 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 #
 
 <details>
-            <summary><b>📶 Current Status/Experience</b></summary>
-            <table align="center">
-               <thead align="center">
-               <tr>
-                <th colspan="5">
-                   <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
-                </th>
-              </tr>
-              </thead>
-              <thead align="center">
-                <tr>
-                  <th>Logo</th>
-                  <th>Company</th>
-                  <th>Experience</th>
-                  <th>Learned</th>
-                  <th>Status</th>
-                </tr>
-              </thead>
-              <tbody align="center">
-                <tr>
-                  <td>
-                     <img src="https://avatars.githubusercontent.com/u/132177038?s=400&u=50b7da79bfc95b09c16cae95a8660ca5202e9c3c&v=4" width="25px" style="vertical-align: middle;" />
-                  </td>
-                  <td>
-<!--              <a href="#" target="_blank">name</a> --> MMO WIKI (Client based)
-                  </td>
-                  <td>4 Months</td>
-                  <td>
-                    Bootstrap, SASS,<br/>
-                    React, TypeScript,<br/>
-                    Github Organization, Github Collaboration,<br/>
-                    Miro & Loom<br/>
-                  </td>
-                   <td>
-                    Currently Working
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </details>
+   <summary><b>📶 Current Status/Experience</b></summary>
+   <table align="center">
+      <thead align="center">
+      <tr>
+       <th colspan="5">
+          <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
+       </th>
+     </tr>
+     </thead>
+     <thead align="center">
+       <tr>
+         <th>Logo</th>
+         <th>Company</th>
+         <th>Experience</th>
+         <th>Learned</th>
+         <th>Status</th>
+       </tr>
+     </thead>
+     <tbody align="center">
+       <tr>
+         <td>
+            <img src="https://avatars.githubusercontent.com/u/132177038?s=400&u=50b7da79bfc95b09c16cae95a8660ca5202e9c3c&v=4" width="25px" style="vertical-align: middle;" />
+         </td>
+         <td>
+   <!-- <a href="#" target="_blank">name</a> --> MMO WIKI (Client based)
+         </td>
+         <td>4 Months</td>
+         <td>
+           Bootstrap, SASS,<br/>
+           React, TypeScript,<br/>
+           Github Organization, Github Collaboration,<br/>
+           Miro & Loom<br/>
+         </td>
+          <td>
+           Currently Working
+         </td>
+       </tr>
+     </tbody>
+   </table>
+</details>
