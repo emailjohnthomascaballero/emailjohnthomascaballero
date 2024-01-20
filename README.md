@@ -6,10 +6,10 @@
 
 Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my roles as a software engineer, I'm deeply passionate about coding, gaming, and crafting content for my YouTube channels, "Gamer Forever" and "Geek Forever." I invite you to join me on this exciting journey by collaborating on projects and sharing our insights. Whether you're interested in technology, gaming, or both, let's connect and explore the limitless possibilities of our shared interests. Together, we can create meaningful projects and contribute to the ever-evolving landscape of software engineering and gaming.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
-      <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=for-the-badge&logo=youtube&label=Geek%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
-   </p>
+<p align="left">
+   <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
+   <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=for-the-badge&logo=youtube&label=Geek%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
+</p>
 
 ---
 
@@ -57,7 +57,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 <br />
 <br />
 
-#
+---
 
 ### 📺 Latest Geek Forever YouTube Videos
 
@@ -69,6 +69,8 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 [![⌨️Typing.com - 11th Grade Curriculum (Part 4)](https://ytcards.demolab.com/?id=vVNWVaqE7Oo&title=%E2%8C%A8%EF%B8%8FTyping.com+-+11th+Grade+Curriculum+%28Part+4%29&lang=en&timestamp=1705140548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Typing.com - 11th Grade Curriculum (Part 4)")](https://www.youtube.com/watch?v=vVNWVaqE7Oo)
 [![🖥️Setting up a website locally with XAMPP](https://ytcards.demolab.com/?id=g_OrwipCpPI&title=%F0%9F%96%A5%EF%B8%8FSetting+up+a+website+locally+with+XAMPP&lang=en&timestamp=1704878984&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Setting up a website locally with XAMPP")](https://www.youtube.com/watch?v=g_OrwipCpPI)
 <!-- END YOUTUBE-CARDS -->
+
+---
 
 <details>
    <summary><b>🖥️ My Gig</b></summary>
