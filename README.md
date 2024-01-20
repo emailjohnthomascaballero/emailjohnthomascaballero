@@ -70,7 +70,55 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 [![🖥️Setting up a website locally with XAMPP](https://ytcards.demolab.com/?id=g_OrwipCpPI&title=%F0%9F%96%A5%EF%B8%8FSetting+up+a+website+locally+with+XAMPP&lang=en&timestamp=1704878984&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Setting up a website locally with XAMPP")](https://www.youtube.com/watch?v=g_OrwipCpPI)
 <!-- END YOUTUBE-CARDS -->
 
-#
+<details>
+   <summary><b>🖥️ My Gig</b></summary>
+   <table align="center">
+      <thead align="center">
+      <tr>
+       <th colspan="5">
+          <a href="#blank"><img src="https://i.pinimg.com/originals/b8/aa/8f/b8aa8f0ce3ee8c85bb9585d842cdf30c.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
+       </th>
+     </tr>
+     </thead>
+     <thead align="center">
+       <tr>
+         <th>Computer</th>
+         <th>Monitor</th>
+         <th>Keyboard</th>
+         <th>Mouse</th>
+         <th>Earphones</th>
+         <th>Table</th>
+         <th>Chair</th>
+       </tr>
+     </thead>
+     <tbody align="center">
+       <tr>
+         <td>
+            Beelink SER5 AMD Ryzen 7 5800H Mini PC
+         </td>
+         <td>
+            ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor, <br>
+            LIAGMK 15.6 60Hz 1080P Portable Monitor
+         </td>
+         <td>
+            Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard
+         </td>
+         <td>
+           Delux M800 Pro Gaming Mouse
+         </td>
+          <td>
+           Soundcore by Anker A20i
+         </td>
+          <td>
+           L-Shaped Corner Computer Table
+         </td>
+          <td>
+           MUSSO Navigator Series Model 2 Gaming Chair
+         </td>
+       </tr>
+     </tbody>
+   </table>
+</details>
 
 <details>
    <summary><b>📶 Current Status/Experience</b></summary>
