@@ -8,7 +8,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 
    <p align="left">
       <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
-       <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=for-the-badge&logo=youtube&label=Geek%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
+      <a href="https://www.youtube.com/@GeekForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCtujEiwlNyHon-z78FmVW7Q?style=for-the-badge&logo=youtube&label=Geek%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
    </p>
 
 ---
