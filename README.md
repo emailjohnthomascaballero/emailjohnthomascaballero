@@ -78,7 +78,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
       <thead align="center">
       <tr>
        <th colspan="5">
-          <a href="#blank"><img src="https://i.pinimg.com/originals/b8/aa/8f/b8aa8f0ce3ee8c85bb9585d842cdf30c.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
+          <img src="https://i.pinimg.com/originals/b8/aa/8f/b8aa8f0ce3ee8c85bb9585d842cdf30c.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif">
        </th>
      </tr>
      </thead>
@@ -128,7 +128,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
       <thead align="center">
       <tr>
        <th colspan="5">
-          <a href="#blank"><img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif"></a>
+         <img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" align="center" title="Anime gif" width="100%" height="auto" alt="Anime typing in a paper gif">
        </th>
      </tr>
      </thead>
