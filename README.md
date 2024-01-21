@@ -171,10 +171,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          </td>
          <td>1 Day</td>
          <td>
-           NextJS, Vitest,<br/>
-           React, TypeScript,<br/>
-           Github Organization, Github Collaboration,<br/>
-           Figma<br/>
+           Pending
          </td>
           <td>
            Pending
