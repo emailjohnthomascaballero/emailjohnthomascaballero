@@ -90,7 +90,6 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          <th>Mouse</th>
          <th>Earphones</th>
          <th>Table</th>
-         <th>Chair</th>
        </tr>
      </thead>
      <tbody align="center">
@@ -113,9 +112,6 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          </td>
           <td>
            L-Shaped Corner Computer Table
-         </td>
-          <td>
-           MUSSO Navigator Series Model 2 Gaming Chair
          </td>
        </tr>
      </tbody>
