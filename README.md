@@ -169,11 +169,13 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             bossROD`s Solutions <br> 
             (Startup Company)
          </td>
-         <td>1 Day</td>
+         <td>
+            Pending   
+         </td>
          <td>
            Pending
          </td>
-          <td>
+         <td>
            Pending
          </td>
        </tr>
