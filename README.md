@@ -108,7 +108,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
            Delux M800 Pro Wireless Gaming Mouse
          </td>
           <td>
-           Soundcore by Anker A20i
+           Soundcore by Anker A20i Bluetooth 5.3 Earphones
          </td>
           <td>
            FISHERMAN L-Shaped Corner Computer Table
