@@ -105,13 +105,13 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard
          </td>
          <td>
-           Delux M800 Pro Gaming Mouse
+           Delux M800 Pro Wireless Gaming Mouse
          </td>
           <td>
            Soundcore by Anker A20i
          </td>
           <td>
-           L-Shaped Corner Computer Table
+           FISHERMAN L-Shaped Corner Computer Table
          </td>
        </tr>
      </tbody>
