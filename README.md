@@ -148,10 +148,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          </td>
          <td>4 Months</td>
          <td>
-           Bootstrap, SASS,<br/>
-           React, TypeScript,<br/>
-           Github Organization, Github Collaboration,<br/>
-           Miro & Loom<br/>
+           Next.js, React, TypeScript, Bootstrap, SASS, Figma, Miro, Loom
          </td>
           <td>
            Currently Working
