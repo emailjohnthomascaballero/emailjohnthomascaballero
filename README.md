@@ -169,7 +169,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             NVM, PNPM, ESLint
          </td>
          <td>
-            Pending
+            Currently Working
          </td>
        </tr>
      </tbody>
