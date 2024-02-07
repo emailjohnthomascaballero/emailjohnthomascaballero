@@ -146,7 +146,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             MMO WIKI <br> 
             (Client based)
          </td>
-         <td>4 Months</td>
+         <td>5 Months</td>
          <td>
            Next.js, React, TypeScript, Bootstrap, SASS, Figma, Miro, Loom
          </td>
