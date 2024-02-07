@@ -166,10 +166,10 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             Pending   
          </td>
          <td>
-           Pending
+            NVM, PNPM, ESLint
          </td>
          <td>
-           Pending
+            Pending
          </td>
        </tr>
      </tbody>
