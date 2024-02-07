@@ -158,8 +158,8 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          <td>
             <a href="https://github.com/bossROD-s-Solutions"> <img src="https://avatars.githubusercontent.com/u/125577727?s=200&v=4" width="25px" style="vertical-align: middle;" /> </a>
          </td>
-         <td>
-            bossROD`s Solutions <br> 
+         <td>         
+            Dianoia Tech <br> 
             (Startup Company)
          </td>
          <td>
