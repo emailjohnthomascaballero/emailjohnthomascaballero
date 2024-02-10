@@ -156,7 +156,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
        </tr>
         <tr>
          <td>
-            <a href="https://github.com/dianoiatech"> <img src="https://avatars.githubusercontent.com/u/125577727?s=200&v=4" width="25px" style="vertical-align: middle;" /> </a>
+            <a href="https://github.com/dianoiatech"> <img src="https://avatars.githubusercontent.com/u/106958509?s=200&v=4" width="25px" style="vertical-align: middle;" /> </a>
          </td>
          <td>         
             Dianoia Tech <br> 
