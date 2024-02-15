@@ -163,7 +163,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             (Startup Company)
          </td>
          <td>
-            Pending   
+            1 Week   
          </td>
          <td>
             Nextjs, NVM, PNPM, ESLint
