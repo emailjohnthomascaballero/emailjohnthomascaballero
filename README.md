@@ -133,7 +133,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          <th>Logo</th>
          <th>Company</th>
          <th>Experience</th>
-         <th>Learned</th>
+         <th>Tech Stack</th>
          <th>Status</th>
        </tr>
      </thead>
@@ -148,7 +148,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          </td>
          <td>5 Months</td>
          <td>
-           Next.js, React, TypeScript, Bootstrap, SASS, Figma, Miro, Loom, Trello
+           Next.js, React, TypeScript, Bootstrap, SASS, Node, Figma, Miro, Loom, Trello
          </td>
           <td>
            Currently Working
@@ -166,7 +166,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             1 Week   
          </td>
          <td>
-            Nextjs, NVM, PNPM, ESLint
+            Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello
          </td>
          <td>
             Currently Working
