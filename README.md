@@ -163,7 +163,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             (Startup Company)
          </td>
          <td>
-            1 Week   
+            2 Weeks  
          </td>
          <td>
             Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello
