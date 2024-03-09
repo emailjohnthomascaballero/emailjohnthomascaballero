@@ -13,14 +13,14 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 
 ---
 
-### 🧰 Languages and Tools
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Languages and Tools
 <p align="left">
    <a href="https://github.com/emailjohnthomascaballero">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,sass,alpinejs,nodejs,pnpm,npm,nextjs,vercel,mysql,php,flutter,dart,cs,py,md,notion,git,github,vscode,sublime,wordpress,postman,figma,ps,pr,windows,androidstudio,firebase,devto,discord,gamemakerstudio,unity,gmail,linkedin,stackoverflow,twitter"/>
    </a>
 </p>
 
-### 📺 Latest Geek Forever YouTube Videos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> Latest Geek Forever YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![🤖Install OPEN AI with Python](https://ytcards.demolab.com/?id=EjRV5QX5EKc&title=%F0%9F%A4%96Install+OPEN+AI+with+Python&lang=en&timestamp=1709897844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🤖Install OPEN AI with Python")](https://www.youtube.com/watch?v=EjRV5QX5EKc)
@@ -31,8 +31,10 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 [![🐱Unstage Accidentally Added Files and Commits (GIT RESET)](https://ytcards.demolab.com/?id=uIf0QKO69cU&title=%F0%9F%90%B1Unstage+Accidentally+Added+Files+and+Commits+%28GIT+RESET%29&lang=en&timestamp=1708274222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🐱Unstage Accidentally Added Files and Commits (GIT RESET)")](https://www.youtube.com/watch?v=uIf0QKO69cU)
 <!-- END YOUTUBE-CARDS -->
 
----
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="40"> Stats
+
+<!-- STATS -->
 <details>
    <summary><b>🖥️ My Gig</b></summary>
    <table align="center">
