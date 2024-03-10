@@ -14,6 +14,9 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 ---
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Languages and Tools
+
+<!-- LANGUAGES AND TOOLS -->
+
 <p align="left">
    <a href="https://github.com/emailjohnthomascaballero">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,sass,alpinejs,nodejs,pnpm,npm,nextjs,vercel,mysql,php,flutter,dart,cs,py,md,notion,git,github,vscode,sublime,wordpress,postman,figma,ps,pr,windows,androidstudio,firebase,devto,discord,gamemakerstudio,unity,gmail,linkedin,stackoverflow,twitter"/>
