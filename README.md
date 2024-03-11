@@ -132,7 +132,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             2 Months  
          </td>
          <td>
-            Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello
+            Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello, Taiga
          </td>
          <td>
             Currently Working
