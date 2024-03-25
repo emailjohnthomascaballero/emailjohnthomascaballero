@@ -26,12 +26,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> Latest Geek Forever YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🖥️Reset your Website (WP Reset Plugin)](https://ytcards.demolab.com/?id=DayK6hdKjZw&title=%F0%9F%96%A5%EF%B8%8FReset+your+Website+%28WP+Reset+Plugin%29&lang=en&timestamp=1711279305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Reset your Website (WP Reset Plugin)")](https://www.youtube.com/watch?v=DayK6hdKjZw)
-[![⌨️Monkeytype](https://ytcards.demolab.com/?id=wOg9VOyuiyA&title=%E2%8C%A8%EF%B8%8FMonkeytype&lang=en&timestamp=1711175365&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Monkeytype")](https://www.youtube.com/watch?v=wOg9VOyuiyA)
-[![⌨️Typing.com - 8th Grade Curriculum (Part 7)](https://ytcards.demolab.com/?id=j7Ga_BwAm-c&title=%E2%8C%A8%EF%B8%8FTyping.com+-+8th+Grade+Curriculum+%28Part+7%29&lang=en&timestamp=1711102107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Typing.com - 8th Grade Curriculum (Part 7)")](https://www.youtube.com/watch?v=j7Ga_BwAm-c)
-[![☕Introduction to CSS (Sololearn)](https://ytcards.demolab.com/?id=hg3YWv1wLaE&title=%E2%98%95Introduction+to+CSS+%28Sololearn%29&lang=en&timestamp=1710673378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "☕Introduction to CSS (Sololearn)")](https://www.youtube.com/watch?v=hg3YWv1wLaE)
-[![🤖Install OPEN AI with Python](https://ytcards.demolab.com/?id=EjRV5QX5EKc&title=%F0%9F%A4%96Install+OPEN+AI+with+Python&lang=en&timestamp=1709897844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🤖Install OPEN AI with Python")](https://www.youtube.com/watch?v=EjRV5QX5EKc)
-[![⌨️Typing.com - 9th Grade Curriculum (Part 6)](https://ytcards.demolab.com/?id=BqAQrRAhL-A&title=%E2%8C%A8%EF%B8%8FTyping.com+-+9th+Grade+Curriculum+%28Part+6%29&lang=en&timestamp=1709251940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Typing.com - 9th Grade Curriculum (Part 6)")](https://www.youtube.com/watch?v=BqAQrRAhL-A)
+
 <!-- END YOUTUBE-CARDS -->
 
 
