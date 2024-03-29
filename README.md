@@ -26,7 +26,12 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> Latest Geek Forever YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![📦Unboxing: ARZOPA 16.1" 144Hz Portable Gaming Monitor](https://ytcards.demolab.com/?id=838IRd-ctm8&title=%F0%9F%93%A6Unboxing%3A+ARZOPA+16.1%22+144Hz+Portable+Gaming+Monitor&lang=en&timestamp=1711620715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "📦Unboxing: ARZOPA 16.1\" 144Hz Portable Gaming Monitor")](https://www.youtube.com/watch?v=838IRd-ctm8)
+[![📦Unboxing: DELUX - M800 PRO Gaming Mouse + Software Setup](https://ytcards.demolab.com/?id=AvC6oclWSxg&title=%F0%9F%93%A6Unboxing%3A+DELUX+-+M800+PRO+Gaming+Mouse+%2B+Software+Setup&lang=en&timestamp=1711529005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "📦Unboxing: DELUX - M800 PRO Gaming Mouse + Software Setup")](https://www.youtube.com/watch?v=AvC6oclWSxg)
+[![🐍Python Nested Ternary Operators](https://ytcards.demolab.com/?id=rF0JDUJepGE&title=%F0%9F%90%8DPython+Nested+Ternary+Operators&lang=en&timestamp=1711445039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🐍Python Nested Ternary Operators")](https://www.youtube.com/watch?v=rF0JDUJepGE)
+[![🤖Free AI Artwork Generator (BlueWillow AI)](https://ytcards.demolab.com/?id=3Y5bwAPPGAo&title=%F0%9F%A4%96Free+AI+Artwork+Generator+%28BlueWillow+AI%29&lang=en&timestamp=1711347860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🤖Free AI Artwork Generator (BlueWillow AI)")](https://www.youtube.com/watch?v=3Y5bwAPPGAo)
+[![🖥️Reset your Website in WordPress (WP Reset Plugin)](https://ytcards.demolab.com/?id=DayK6hdKjZw&title=%F0%9F%96%A5%EF%B8%8FReset+your+Website+in+WordPress+%28WP+Reset+Plugin%29&lang=en&timestamp=1711279305&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Reset your Website in WordPress (WP Reset Plugin)")](https://www.youtube.com/watch?v=DayK6hdKjZw)
+[![⌨️Monkeytype](https://ytcards.demolab.com/?id=wOg9VOyuiyA&title=%E2%8C%A8%EF%B8%8FMonkeytype&lang=en&timestamp=1711175365&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Monkeytype")](https://www.youtube.com/watch?v=wOg9VOyuiyA)
 <!-- END YOUTUBE-CARDS -->
 
 
