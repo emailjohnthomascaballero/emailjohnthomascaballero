@@ -116,7 +116,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             7 Months
          </td>
          <td>
-           Next.js, React, TypeScript, Bootstrap, SASS, Node, NPM, Figma, Miro, Loom, Trello, Taiga
+           Next.js, React, TypeScript, Bootstrap, SASS, Node, NPM, Figma, Miro, Loom, Trello, Taiga, Discord
          </td>
           <td>
            Currently Working
@@ -134,7 +134,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             3 Months  
          </td>
          <td>
-            Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello, Taiga
+            Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello, Taiga, Discord
          </td>
          <td>
             Currently Working
