@@ -56,6 +56,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
          <th>Mouse</th>
          <th>Earphones</th>
          <th>Table</th>
+         <th>Chair</th>
        </tr>
      </thead>
      <tbody align="center">
@@ -64,7 +65,8 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             Beelink SER5 AMD Ryzen 7 5800H Mini PC (16gb RAM / 500gb SSD)
          </td>
          <td>
-            ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor, <br>
+            ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor 
+            <br> and <br>
             LIAGMK 15.6 60Hz 1080P Portable Monitor
          </td>
          <td>
@@ -79,6 +81,9 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
           <td>
            FISHERMAN L-Shaped Corner Computer Table
          </td>
+          <td>
+             MUSSO 109B Gaming Chair
+          </td>
        </tr>
      </tbody>
    </table>
