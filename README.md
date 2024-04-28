@@ -26,12 +26,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> Latest Geek Forever YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![⚙️Improve Highlighting of Errors in VS Code (Error Lens)](https://ytcards.demolab.com/?id=-Dn9miUS6cE&title=%E2%9A%99%EF%B8%8FImprove+Highlighting+of+Errors+in+VS+Code+%28Error+Lens%29&lang=en&timestamp=1714202251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️Improve Highlighting of Errors in VS Code (Error Lens)")](https://www.youtube.com/watch?v=-Dn9miUS6cE)
-[![🖥️Windows 10 Debloater: Remove Unnecessary Software](https://ytcards.demolab.com/?id=jNU2bTVN9IQ&title=%F0%9F%96%A5%EF%B8%8FWindows+10+Debloater%3A+Remove+Unnecessary+Software&lang=en&timestamp=1714128266&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Windows 10 Debloater: Remove Unnecessary Software")](https://www.youtube.com/watch?v=jNU2bTVN9IQ)
-[![⌨️Code Fast By SpeedCoder](https://ytcards.demolab.com/?id=__UPGRW55uE&title=%E2%8C%A8%EF%B8%8FCode+Fast+By+SpeedCoder&lang=en&timestamp=1714030558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⌨️Code Fast By SpeedCoder")](https://www.youtube.com/watch?v=__UPGRW55uE)
-[![🚀 Practice Coding JavaScript with SuperSimpleDev](https://ytcards.demolab.com/?id=722XEEY6jhQ&title=%F0%9F%9A%80+Practice+Coding+JavaScript+with+SuperSimpleDev&lang=en&timestamp=1713967327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🚀 Practice Coding JavaScript with SuperSimpleDev")](https://www.youtube.com/watch?v=722XEEY6jhQ)
-[![🖥️Copy & Edit Custom SVG Files](https://ytcards.demolab.com/?id=88nMiGLViQo&title=%F0%9F%96%A5%EF%B8%8FCopy+%26+Edit+Custom+SVG+Files&lang=en&timestamp=1713852634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🖥️Copy & Edit Custom SVG Files")](https://www.youtube.com/watch?v=88nMiGLViQo)
-[![👨‍💻Next.js | GSAP CDN - Float Animation](https://ytcards.demolab.com/?id=vvtuZsJOmPw&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBNext.js+%7C+GSAP+CDN+-+Float+Animation&lang=en&timestamp=1713767856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "👨‍💻Next.js | GSAP CDN - Float Animation")](https://www.youtube.com/watch?v=vvtuZsJOmPw)
+
 <!-- END YOUTUBE-CARDS -->
 
 
