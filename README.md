@@ -63,6 +63,8 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
        <tr>
          <td>
             Beelink SER5 AMD Ryzen 7 5800H Mini PC (16gb RAM / 500gb SSD)
+            <br> and <br>
+            i3-6th-gen DELL Laptop (8gb RAM / 500gb SSD)
          </td>
          <td>
             ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor 
