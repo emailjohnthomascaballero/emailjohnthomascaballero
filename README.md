@@ -4,7 +4,7 @@
 
 **`Creative Frontend Website Developer | Passionate About Collaborative Team Projects`**
 
-Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my roles as a software engineer, I'm deeply passionate about coding, gaming, and crafting content for my YouTube channels, "Gamer Forever" and "Geek Forever." I invite you to join me on this exciting journey by collaborating on projects and sharing our insights. Whether you're interested in technology, gaming, or both, let's connect and explore the limitless possibilities of our shared interests. Together, we can create meaningful projects and contribute to the ever-evolving landscape of software engineering and gaming.
+Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my roles as a website developer, I'm deeply passionate about coding, gaming, and crafting content for my YouTube channels, "Gamer Forever" and "Geek Forever." I invite you to join me on this exciting journey by collaborating on projects and sharing our insights. Whether you're interested in technology, gaming, or both, let's connect and explore the limitless possibilities of our shared interests. Together, we can create meaningful projects and contribute to the ever-evolving landscape of developer and gaming.
 
 <p align="left">
    <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
