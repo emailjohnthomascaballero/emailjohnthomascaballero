@@ -23,7 +23,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
    </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> Latest Geek Forever YouTube Videos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" /> My YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![👨‍💻img tag could result in slower LCP and higher bandwidth](https://ytcards.demolab.com/?id=1Law3_hbF7g&title=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBimg+tag+could+result+in+slower+LCP+and+higher+bandwidth&lang=en&timestamp=1716615888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "👨‍💻img tag could result in slower LCP and higher bandwidth")](https://www.youtube.com/watch?v=1Law3_hbF7g)
