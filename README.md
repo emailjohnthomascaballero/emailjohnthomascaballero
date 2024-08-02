@@ -138,13 +138,13 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             (Startup Company)
          </td>
          <td>
-            7 Months  
+            4 Months  
          </td>
          <td>
             Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello, Taiga, Discord
          </td>
          <td>
-            Currently Working
+            Finished
          </td>
        </tr>
      </tbody>
