@@ -84,7 +84,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             <a href="https://youtu.be/uK8KFhWrA8g?si=4EZyL5V4JmO2Xnf4" target="_blank">Delux M800 Pro Wireless Gaming Mouse</a>
          </td>
           <td>
-             Soundcore by Anker A20i Bluetooth 5.3 Earphones
+             <a href="https://youtu.be/cLtDH_AM2QA?si=iRjXIWU6l-zlLYgo" target="_blank">Soundcore by Anker A20i Bluetooth 5.3 Earphones</a>
          </td>
           <td>
              <a href="https://youtu.be/Fv4K1koY3UE?si=6Kv_OomvH_zZ5WT9" target="_blank">FISHERMAN L-Shaped Corner Computer Table</a>
