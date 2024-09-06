@@ -78,7 +78,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             </a>
          </td>
          <td>
-            Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard
+            <a href="https://youtu.be/Ph9J2xlU-QM?si=p3LChE-6o7JACKxV" target="_blank">Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard</a>
          </td>
          <td>
             <a href="https://youtu.be/uK8KFhWrA8g?si=4EZyL5V4JmO2Xnf4" target="_blank">Delux M800 Pro Wireless Gaming Mouse</a>
