@@ -69,7 +69,9 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             i3-6th-Gen DELL Laptop (8gb RAM / 500gb SSD)
          </td>
          <td>
-            ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor 
+            <a href="https://youtu.be/838IRd-ctm8?si=C8KjeESPAFlBZgv7" target="_blank">
+            ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor
+            </a>
             <br> and <br>
             LIAGMK 15.6 60Hz 1080P Portable Monitor
          </td>
