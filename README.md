@@ -78,13 +78,13 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
            Delux M800 Pro Wireless Gaming Mouse
          </td>
           <td>
-           Soundcore by Anker A20i Bluetooth 5.3 Earphones
+             <a href="#" target="_blank">Soundcore by Anker A20i Bluetooth 5.3 Earphones</a>
          </td>
           <td>
              <a href="https://youtu.be/Fv4K1koY3UE?si=6Kv_OomvH_zZ5WT9" target="_blank">FISHERMAN L-Shaped Corner Computer Table</a>
          </td>
           <td>
-             MUSSO 109B Gaming Chair
+             <a href="https://youtu.be/iEVZsoiFCD8?si=mTAmh-vdmmptTWTv" target="_blank">MUSSO 109B Gaming Chair</a>
           </td>
        </tr>
      </tbody>
