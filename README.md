@@ -62,35 +62,35 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
      <tbody align="center">
        <tr>
          <td>
-            <a href="https://youtu.be/1bBFRKd9Aa8?si=jzLn1byRxL2mmMF2" target="_blank">
+            <a href="https://youtu.be/1bBFRKd9Aa8?si=jzLn1byRxL2mmMF2">
             Beelink SER5 AMD Ryzen 7 5800H Mini PC (16gb RAM / 500gb SSD)
             </a>
             <br> and <br>
             i3-6th-Gen DELL Laptop (8gb RAM / 500gb SSD)
          </td>
          <td>
-            <a href="https://youtu.be/838IRd-ctm8?si=C8KjeESPAFlBZgv7" target="_blank">
+            <a href="https://youtu.be/838IRd-ctm8?si=C8KjeESPAFlBZgv7">
             ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor
             </a>
             <br> and <br>
-            <a href="https://youtu.be/wslLP6sJUv8?si=TIog3_DSC4AhgahE" target="_blank">
+            <a href="https://youtu.be/wslLP6sJUv8?si=TIog3_DSC4AhgahE">
             LIAGMK 15.6 60Hz 1080P Portable Monitor
             </a>
          </td>
          <td>
-            <a href="https://youtu.be/Ph9J2xlU-QM?si=p3LChE-6o7JACKxV" target="_blank">Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard</a>
+            <a href="https://youtu.be/Ph9J2xlU-QM?si=p3LChE-6o7JACKxV">Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard</a>
          </td>
          <td>
-            <a href="https://youtu.be/uK8KFhWrA8g?si=4EZyL5V4JmO2Xnf4" target="_blank">Delux M800 Pro Wireless Gaming Mouse</a>
+            <a href="https://youtu.be/uK8KFhWrA8g?si=4EZyL5V4JmO2Xnf4">Delux M800 Pro Wireless Gaming Mouse</a>
          </td>
           <td>
-             <a href="https://youtu.be/cLtDH_AM2QA?si=iRjXIWU6l-zlLYgo" target="_blank">Soundcore by Anker A20i Bluetooth 5.3 Earphones</a>
+             <a href="https://youtu.be/cLtDH_AM2QA?si=iRjXIWU6l-zlLYgo">Soundcore by Anker A20i Bluetooth 5.3 Earphones</a>
          </td>
           <td>
-             <a href="https://youtu.be/Fv4K1koY3UE?si=6Kv_OomvH_zZ5WT9" target="_blank">FISHERMAN L-Shaped Corner Computer Table</a>
+             <a href="https://youtu.be/Fv4K1koY3UE?si=6Kv_OomvH_zZ5WT9">FISHERMAN L-Shaped Corner Computer Table</a>
          </td>
           <td>
-             <a href="https://youtu.be/iEVZsoiFCD8?si=mTAmh-vdmmptTWTv" target="_blank">MUSSO 109B Gaming Chair</a>
+             <a href="https://youtu.be/iEVZsoiFCD8?si=mTAmh-vdmmptTWTv">MUSSO 109B Gaming Chair</a>
           </td>
        </tr>
      </tbody>
