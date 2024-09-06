@@ -81,7 +81,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
            Soundcore by Anker A20i Bluetooth 5.3 Earphones
          </td>
           <td>
-           FISHERMAN L-Shaped Corner Computer Table
+             <a href="https://youtu.be/Fv4K1koY3UE?si=6Kv_OomvH_zZ5WT9" target="_blank">FISHERMAN L-Shaped Corner Computer Table</a>
          </td>
           <td>
              MUSSO 109B Gaming Chair
