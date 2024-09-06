@@ -73,16 +73,18 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             ARZOPA 16.1 144Hz 1080P Portable Gaming Monitor
             </a>
             <br> and <br>
+            <a href="https://youtu.be/wslLP6sJUv8?si=TIog3_DSC4AhgahE" target="_blank">
             LIAGMK 15.6 60Hz 1080P Portable Monitor
+            </a>
          </td>
          <td>
             Royal Kludge RK96 Wireless Bluetooth Mechanical Keyboard
          </td>
          <td>
-           Delux M800 Pro Wireless Gaming Mouse
+            <a href="https://youtu.be/uK8KFhWrA8g?si=4EZyL5V4JmO2Xnf4" target="_blank">Delux M800 Pro Wireless Gaming Mouse</a>
          </td>
           <td>
-             <a href="#" target="_blank">Soundcore by Anker A20i Bluetooth 5.3 Earphones</a>
+             Soundcore by Anker A20i Bluetooth 5.3 Earphones
          </td>
           <td>
              <a href="https://youtu.be/Fv4K1koY3UE?si=6Kv_OomvH_zZ5WT9" target="_blank">FISHERMAN L-Shaped Corner Computer Table</a>
