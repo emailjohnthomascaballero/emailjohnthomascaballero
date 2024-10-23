@@ -132,7 +132,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
            Next.js, React, TypeScript, Bootstrap, SASS, Node, NPM, Figma, Miro, Loom, Trello, Taiga, Discord
          </td>
           <td>
-           Currently Working
+            <!-- Currently Working --> Project Paused
          </td>
        </tr>
         <tr>
