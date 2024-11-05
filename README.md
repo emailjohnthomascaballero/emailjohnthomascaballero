@@ -150,7 +150,7 @@ Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my 
             Nextjs, React, Tailwind, Node, PNPM, ESLint, Figma, Trello, Taiga, Discord
          </td>
          <td>
-            Finished
+            Project Paused
          </td>
        </tr>
      </tbody>
