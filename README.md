@@ -2,9 +2,9 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+John+Thomas+F.+Caballero!;+an+IT+Professional;+a+developer...;+a+content+creator...;+and+a+calisthenics+athlete." />
 </a>
 
-**`IT Professional | Web & Mobile Dev | Tech & Gaming Content Creator | Calisthenics Athlete`**
+**`IT Professional | Web Dev | Tech & Gaming Content Creator | Calisthenics Athlete`**
 
-Greetings! I'm John, an IT graduate based in Davao City, Philippines. Beyond my roles as a website developer, I'm deeply passionate about coding, gaming, and crafting content for my YouTube channels, "Gamer Forever" and "Geek Forever." I invite you to join me on this exciting journey by collaborating on projects and sharing our insights. Whether you're interested in technology, gaming, or both, let's connect and explore the limitless possibilities of our shared interests. Together, we can create meaningful projects and contribute to the ever-evolving landscape of developer and gaming.
+Hi there! I’m John, an IT professional based in Davao City, Philippines. While I specialize in website development, I also have a strong passion for coding, gaming, and creating content for my YouTube channels, "Gamer Forever" and "Geek Forever." I’d love to have you join me on this exciting journey of collaboration and knowledge-sharing. Whether you're into tech, gaming, or both, let’s connect and explore the endless possibilities we can create together in the world of development and gaming.
 
 <p align="left">
    <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
