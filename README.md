@@ -2,7 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+John+Thomas+F.+Caballero!;+an+IT+Professional;+a+developer...;+a+content+creator...;+and+a+calisthenics+athlete." />
 </a>
 
-**`IT Professional | Web Dev | Tech & Gaming Content Creator | Calisthenics Athlete`**
+**`IT Professional | Web Developer | Tech & Gaming Content Creator | Calisthenics Athlete`**
 
 Hi there! I’m John, an IT professional based in Davao City, Philippines. While I specialize in website development, I also have a strong passion for coding, gaming, and creating content for my YouTube channels, "Gamer Forever" and "Geek Forever." I’d love to have you join me on this exciting journey of collaboration and knowledge-sharing. Whether you're into tech, gaming, or both, let’s connect and explore the endless possibilities we can create together in the world of development and gaming.
 
