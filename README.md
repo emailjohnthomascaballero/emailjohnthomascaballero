@@ -153,24 +153,6 @@ Hi there! I’m John, an IT professional based in Davao City, Philippines. While
             Project Paused
          </td>
        </tr>
-         <tr>
-         <td>
-            <a href=""> <img src="" width="25px" style="vertical-align: middle;" /> </a>
-         </td>
-         <td>
-            Upskwela <br> 
-            (Startup Company)
-         </td>
-         <td>
-            Day 2
-         </td>
-         <td>
-           Cursor, Facebook Messenger, Discord
-         </td>
-          <td>
-            Currently Working
-         </td>
-       </tr>
      </tbody>
    </table>
 </details>
