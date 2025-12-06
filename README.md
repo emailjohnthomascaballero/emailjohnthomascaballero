@@ -65,8 +65,6 @@ Hi there! I’m John, an IT professional based in Davao City, Philippines. While
             <a href="https://youtu.be/1bBFRKd9Aa8?si=jzLn1byRxL2mmMF2">
             Beelink SER5 AMD Ryzen 7 5800H Mini PC (16gb RAM / 500gb SSD)
             </a>
-            <br> and <br>
-            i3-6th-Gen DELL Laptop (8gb RAM / 500gb SSD)
          </td>
          <td>
             <a href="https://youtu.be/838IRd-ctm8?si=C8KjeESPAFlBZgv7">
