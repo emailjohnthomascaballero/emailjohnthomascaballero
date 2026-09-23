@@ -4,7 +4,7 @@
 
 **`IT Professional | Software Engineer | Tech, Gaming & Fitness Content Creator | Calisthenics Athlete`**
 
-Hi there! I’m John, an IT professional based in Davao City, Philippines. While I specialize in website development, I also have a strong passion for coding, gaming, and creating content for my YouTube channels, "Gamer Forever" and "Geek Forever." I’d love to have you join me on this exciting journey of collaboration and knowledge-sharing. Whether you're into tech, gaming, or both, let’s connect and explore the endless possibilities we can create together in the world of development and gaming.
+Hi there! I’m John, an IT professional based in Davao City, Philippines. While I specialize in website development, I also have a strong passion for coding, gaming, fitness and creating content for my YouTube channels, "Gamer Forever", "Geek Forever" and "Motivate Forever." I’d love to have you join me on this exciting journey of collaboration and knowledge-sharing. Whether you're into tech, gaming, fitness or both, let’s connect and explore the endless possibilities we can create together in the world of development, gaming and fitness.
 
 <p align="left">
    <a href="https://www.youtube.com/@GamerForeverChannel"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC88LrCOvWEp83DwV6-qVRzQ?style=for-the-badge&logo=youtube&label=Gamer%20Forever%20YouTube%20Views&color=%23fa3a45"></a>
